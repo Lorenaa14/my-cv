@@ -53,3 +53,7 @@ body {
 .purple-text {
     color: #4d137c;
 }
+
+.language-progress {
+	background-color: #F396FD !important;
+}
